@@ -58,9 +58,6 @@ $ npm run dev:server
 Este projeto esta sobe a licença [MIT](./LICENSE).
 
 ## 🦸 Autor
-
-<a href="">
- <img style="border-radius: 50%;" src="https://avatars3.githubusercontent.com/u/380327?s=460&u=61b426b901b8fe02e12019b1fdb67bf0072d4f00&v=4" width="100px;" alt=""/>
- <br />
-  
+ <img style="border-radius: 20px;" src="https://avatars.githubusercontent.com/u/131376735?v=4" width="80px;" alt=""/>
+ 
 Desenvolvido 💜 por Mônica Gabrielly.
