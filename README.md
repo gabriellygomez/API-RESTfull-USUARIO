@@ -13,7 +13,7 @@
 
 ## 💻 Sobre
 
-Este projeto é uma aplicação RESTful que realiza operações CRUD em usuários. Cada usuário possui um id (autoincremental), nome e email(único). Os dados são persistidos em um banco de dados.
+Este projeto é uma aplicação RESTful que realiza operações CRUD em usuários. Cada usuário possui um id (autoincremental), nome e email(único). Os dados dos usuários são persistidos em um banco de dados.
 
 
 ## ⚙️ Funcionalidades do Projeto
