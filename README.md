@@ -32,27 +32,32 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 - [Node.js](https://nodejs.org/)
 - [Prisma](https://www.prisma.io/docs/getting-started/quickstart)
 - [Express](https://expressjs.com/)
-- [VS Code](https://code.visualstudio.com/)
+- [Typescript](https://www.typescriptlang.org/)
 
 
 ## 🗂 Como baixar o projeto
 ```bash
-### Pré-requisitos e como rodar a aplicação:
-  1. Node.js instalado
-  2. Npm instalado
-  3. Clone o repositório: git clone https://github.com/mayara-gregorio/RESTful.git
-  4. Configure o banco de dados: https://neon.tech
-  5. Crie um arquivo .env no seu projeto e configure as variáveis de ambiente
-  6. Instale o express: npm install express
-  7. Execute uma migração para criar suas tabelas de banco de dados com Prisma Migrate: npx prisma migrate dev
-  8. Inicie seu servidor: npx tsx server.ts
+# Node.js instalado
+
+# Npm instalado
+
+# Clone o repositório: git clone https://github.com/gabriellygomez/Projeto-CRUD-usuario.git
+
+# Configure o banco de dados: https://neon.tech(ou outro de sua escolha)
+
+# Crie um arquivo .env no seu projeto e configure as variáveis
+
+# Instale o express:
+$ npm install express
+
+# Execute uma migration para criar suas tabelas de banco de dados com Prisma Migrate:
+$ npx prisma migrate dev
+
+# Inicie seu servidor:
+$ npx tsx server.ts
 
 # O servidor inciará na porta:3333 - acesse http://localhost:3333
 
 ```
-## 📝 Licença
-
-Este projeto esta sobe a licença [MIT](./LICENSE).
-
 ##  
 Desenvolvido 💜 por Mônica Gabrielly.
