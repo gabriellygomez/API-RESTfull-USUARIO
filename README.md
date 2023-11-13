@@ -37,18 +37,15 @@ O projeto foi desenvolvido utilizando as seguintes tecnologias:
 
 ## 🗂 Como baixar o projeto
 ```bash
-
-# Clone este repositório
-$ git clone git@github.com:tgmarinho/README-ecoleta.git
-
-# Entrar no diretório
-$ cd README-ecoleta
-
-# Instale as dependências
-$ npm install
-
-# Execute a aplicação em modo de desenvolvimento
-$ npm run dev:server
+### Pré-requisitos e como rodar a aplicação:
+  1. Node.js instalado
+  2. Npm instalado
+  3. Clone o repositório: git clone https://github.com/mayara-gregorio/RESTful.git
+  4. Configure o banco de dados: https://neon.tech
+  5. Crie um arquivo .env no seu projeto e configure as variáveis de ambiente
+  6. Instale o express: npm install express
+  7. Execute uma migração para criar suas tabelas de banco de dados com Prisma Migrate: npx prisma migrate dev
+  8. Inicie seu servidor: npx tsx server.ts
 
 # O servidor inciará na porta:3333 - acesse http://localhost:3333
 
